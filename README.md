@@ -26,7 +26,8 @@ Each image is labeled as one of ten clothing categories, making it suitable for 
 ## 🏗️ Solution Approach
 
 1. **Data Preprocessing**
-   - Normalize pixel values to [0, - Reshape images for model compatibility
+   - Normalize pixel values to [0,
+   - Reshape images for model compatibility
    - One-hot encode labels (if needed)
 
 2. **Model Architecture**
@@ -56,8 +57,10 @@ Each image is labeled as one of ten clothing categories, making it suitable for 
 
 ## 📈 Results
 
-- The CNN model achieves high accuracy (>90%) on the Fashion-MNIST dataset.
-- Demonstrates the feasibility of using deep learning for automated, object-based CCTV recording.
+- The CNN model achieved a **test accuracy of 92.1%** on the Fashion-MNIST dataset.
+- Training and validation accuracy curves showed good convergence, with minimal overfitting.
+- Confusion matrix analysis indicated strong class-wise performance, with most misclassifications occurring between visually similar classes.
+- These results demonstrate the feasibility of using deep learning for automated, object-based CCTV recording[5][3].
 
 ## 📦 How to Run
 
@@ -99,3 +102,11 @@ This project is licensed under the MIT License.
 
 **Project maintained by Gowtham B.**  
 For questions or suggestions, please contact gowthammourya9@gmail.com.
+
+[1] https://sist.sathyabama.ac.in/sist_naac/aqar_2022_2023/documents/1.3.4/b.e-cse-batchno-134.pdf
+[2] https://eocortex.com/object-classification-and-counting
+[3] https://cs229.stanford.edu/proj2017/final-reports/5234577.pdf
+[4] https://bprd.nic.in/uploads/pdf/12%20CCTV.pdf
+[5] https://ece.anits.edu.in/2019-20%20BE%20Project%20REPORTS/CHPS%20_2019-2020%20project%20batch_2.pdf
+[6] https://sist.sathyabama.ac.in/sist_naac/documents/1.3.4/b.tech-it-batchno-29.pdf
+[7] https://www.scribd.com/document/427923761/Object-Detection-Project-Report-docx
