@@ -103,10 +103,3 @@ This project is licensed under the MIT License.
 **Project maintained by Gowtham B.**  
 For questions or suggestions, please contact gowthammourya9@gmail.com.
 
-[1] https://sist.sathyabama.ac.in/sist_naac/aqar_2022_2023/documents/1.3.4/b.e-cse-batchno-134.pdf
-[2] https://eocortex.com/object-classification-and-counting
-[3] https://cs229.stanford.edu/proj2017/final-reports/5234577.pdf
-[4] https://bprd.nic.in/uploads/pdf/12%20CCTV.pdf
-[5] https://ece.anits.edu.in/2019-20%20BE%20Project%20REPORTS/CHPS%20_2019-2020%20project%20batch_2.pdf
-[6] https://sist.sathyabama.ac.in/sist_naac/documents/1.3.4/b.tech-it-batchno-29.pdf
-[7] https://www.scribd.com/document/427923761/Object-Detection-Project-Report-docx
